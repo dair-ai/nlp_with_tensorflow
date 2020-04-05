@@ -6,15 +6,3 @@ Note that if you want to successfully reproduce any of the tutorials you may nee
 
 This is a work in progress. I will keep updating and organizing this repository as I continue to write more tutorials about NLP using TensorFlow. You can always look around my profile for full repositories and my other works.
 
----
-If this repository helped you in your research, please consider citing us:
-
-```
-@misc{saravia2020dair,
-  title={dair.ai: Democratizing Artificial Intelligence Research, Education, and Technologies},
-  author={Saravia, Elvis},
-  journal={https://github.com/dair-ai},
-  number={1},
-  year={2020}
-}
-```
